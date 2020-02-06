@@ -15,7 +15,7 @@
     example : 'scrapy crawl main -a bid=8784
     or : 'scrapy crawl main -a bid=8784 -a path=/User/download
 
-    settings.py
+## settings.py
     线程数
     Threads = 8;
 
