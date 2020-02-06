@@ -30,7 +30,7 @@ class BookInfo(object):
         self.headers = {"Content-Type": 'application/x-www-form-urlencoded;charset=UTF-8',
                         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
                         'referer': "https://lib-nuanxin.wqxuetang.com/read/pdf/%s" % book_id,
-                        'cookie': self.login('16604500684', 'zuoyunfei8809')}
+                        'cookie': self.login('account', 'password')}
         self.secret = 'g0NnWdSE8qEjdMD8a1aq12qEYphwErKctvfd3IktWHWiOBpVsgkecur38aBRPn2w'
         self.book_id = book_id
         self.api_k = "/v1/read/k"
