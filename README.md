@@ -1,4 +1,5 @@
 # wenquan_scrapy
+
 文泉学堂爬虫  scrapy框架
 
 支持断点续传
@@ -7,26 +8,26 @@
 线程数量对程序影响不大，详情在settings.py中调整
 
 入口：
-# Start.py
+## Start.py
 
-bid = BookId
-path = download path
-example : 'scrapy crawl main -a bid=8784
-or : 'scrapy crawl main -a bid=8784 -a path=/User/download
+    bid = BookId
+    path = download path
+    example : 'scrapy crawl main -a bid=8784
+    or : 'scrapy crawl main -a bid=8784 -a path=/User/download
 
-settings.py
-线程数
-Threads = 8;
+    settings.py
+    线程数
+    Threads = 8;
 
 
-CONCURRENT_REQUESTS_PER_DOMAIN = Threads;
-CONCURRENT_REQUESTS_PER_IP = Threads;
-CONCURRENT_REQUESTS = Threads;
-DOWNLOAD_TIMEOUT = 30;
-主要速度影响为DOWNLOAD_DELAY，服务器会封ip，推荐默认。
-DOWNLOAD_DELAY = 60 / 30;
-RETRY_ENABLED = True;
-RETRY_TIMES = 5;
+    CONCURRENT_REQUESTS_PER_DOMAIN = Threads;
+    CONCURRENT_REQUESTS_PER_IP = Threads;
+    CONCURRENT_REQUESTS = Threads;
+    DOWNLOAD_TIMEOUT = 30;
+    主要速度影响为DOWNLOAD_DELAY，服务器会封ip，推荐默认。
+    DOWNLOAD_DELAY = 60 / 30;
+    RETRY_ENABLED = True;
+    RETRY_TIMES = 5;
 
 
 挂代理直接64线程0延迟跑就可以
