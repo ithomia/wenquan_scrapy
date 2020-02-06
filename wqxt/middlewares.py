@@ -13,8 +13,8 @@ from scrapy import signals
 
 class ProxiesMiddleware(object):
     def __init__(self):
-        self.orderno = "ZF2020242557cgNPob"
-        self.secret = "045258018bb2428c8542fca49d363096"
+        self.orderno = "XX"
+        self.secret = "XX"
 
     def process_request(self, request, spider):
         request.meta['proxy'] = 'http://forward.xdaili.cn:80'
