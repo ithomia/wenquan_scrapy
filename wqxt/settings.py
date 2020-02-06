@@ -70,7 +70,7 @@ RETRY_TIMES = 5
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'wqxt.pipelines.WqxtPipeline': 300,
+#    'wqxt.pipelines.WqxtPipeline': 300,
 }
 DOWNLOADER_MIDDLEWARES = {
     # 'wqxt.middlewares.ProxiesMiddleware': 543,
