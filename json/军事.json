@@ -1,0 +1,146 @@
+{
+    "base_cnclass": "E",
+    "data": [
+        {
+            "cnclass": "E0-05",
+            "cnt": 1,
+            "numids": [
+                "2135719"
+            ],
+            "path": "cnclassnav/军事/军事理论/军事科学与其他科学的关系"
+        },
+        {
+            "cnclass": "E07",
+            "cnt": 1,
+            "numids": [
+                "1743"
+            ],
+            "path": "cnclassnav/军事/军事理论/军事分支学科"
+        },
+        {
+            "cnclass": "E12",
+            "cnt": 1,
+            "numids": [
+                "3205783"
+            ],
+            "path": "cnclassnav/军事/世界军事/军事制度"
+        },
+        {
+            "cnclass": "E13",
+            "cnt": 1,
+            "numids": [
+                "3205850"
+            ],
+            "path": "cnclassnav/军事/世界军事/军事教育与训练"
+        },
+        {
+            "cnclass": "E144",
+            "cnt": 1,
+            "numids": [
+                "5205"
+            ],
+            "path": "cnclassnav/军事/世界军事/后方勤务"
+        },
+        {
+            "cnclass": "E145",
+            "cnt": 2,
+            "numids": [
+                "3199336",
+                "3199340"
+            ],
+            "path": "cnclassnav/军事/世界军事/军事装备工作"
+        },
+        {
+            "cnclass": "E15",
+            "cnt": 1,
+            "numids": [
+                "2130218"
+            ],
+            "path": "cnclassnav/军事/世界军事/各种武装力量(各军、兵种)"
+        },
+        {
+            "cnclass": "E19",
+            "cnt": 2,
+            "numids": [
+                "7818",
+                "3208921"
+            ],
+            "path": "cnclassnav/军事/世界军事/军事史"
+        },
+        {
+            "cnclass": "E23",
+            "cnt": 1,
+            "numids": [
+                "3202515"
+            ],
+            "path": "cnclassnav/军事/中国军事/后方勤务"
+        },
+        {
+            "cnclass": "E26",
+            "cnt": 2,
+            "numids": [
+                "6430",
+                "2132154"
+            ],
+            "path": "cnclassnav/军事/中国军事/军事制度"
+        },
+        {
+            "cnclass": "E29",
+            "cnt": 1,
+            "numids": [
+                "1432"
+            ],
+            "path": "cnclassnav/军事/中国军事/军事史（战史、建军史）"
+        },
+        {
+            "cnclass": "E83",
+            "cnt": 1,
+            "numids": [
+                "3206245"
+            ],
+            "path": "cnclassnav/军事/战略学、战役学、战术学/战术学"
+        },
+        {
+            "cnclass": "E86",
+            "cnt": 1,
+            "numids": [
+                "3208924"
+            ],
+            "path": "cnclassnav/军事/战略学、战役学、战术学/非常规战争"
+        },
+        {
+            "cnclass": "E89",
+            "cnt": 2,
+            "numids": [
+                "3208922",
+                "3208923"
+            ],
+            "path": "cnclassnav/军事/战略学、战役学、战术学/古代兵法、战法"
+        },
+        {
+            "cnclass": "E92",
+            "cnt": 87,
+            "numids": [
+                "10814",
+                "10815",
+                "10816",
+                "10817",
+                "10818",
+                "10819",
+                "10820",
+                "10821",
+                "10822",
+                "13086"
+            ],
+            "path": "cnclassnav/军事/军事技术/武器、军用器材"
+        },
+        {
+            "cnclass": "E95",
+            "cnt": 1,
+            "numids": [
+                "2127946"
+            ],
+            "path": "cnclassnav/军事/军事技术/军事工程"
+        }
+    ]
+}

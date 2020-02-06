@@ -1,0 +1,117 @@
+{
+    "base_cnclass": "S",
+    "data": [
+        {
+            "cnclass": "S-0",
+            "cnt": 1,
+            "numids": [
+                "2127937"
+            ],
+            "path": "cnclassnav/农业科学/一般性理论"
+        },
+        {
+            "cnclass": "S18",
+            "cnt": 1,
+            "numids": [
+                "7891"
+            ],
+            "path": "cnclassnav/农业科学/农业基础科学/农业生物学"
+        },
+        {
+            "cnclass": "S21",
+            "cnt": 1,
+            "numids": [
+                "3184470"
+            ],
+            "path": "cnclassnav/农业科学/农业工程/农业动力、农村能源"
+        },
+        {
+            "cnclass": "S27",
+            "cnt": 2,
+            "numids": [
+                "4610",
+                "2127922"
+            ],
+            "path": "cnclassnav/农业科学/农业工程/农田水利"
+        },
+        {
+            "cnclass": "S43",
+            "cnt": 1,
+            "numids": [
+                "1744"
+            ],
+            "path": "cnclassnav/农业科学/植物保护/病虫害及其防治"
+        },
+        {
+            "cnclass": "S56",
+            "cnt": 3,
+            "numids": [
+                "11741",
+                "13851",
+                "3206641"
+            ],
+            "path": "cnclassnav/农业科学/农作物/经济作物⑨"
+        },
+        {
+            "cnclass": "S59",
+            "cnt": 1,
+            "numids": [
+                "1358152"
+            ],
+            "path": "cnclassnav/农业科学/农作物/热带、亚热带作物⑨"
+        },
+        {
+            "cnclass": "S6",
+            "cnt": 2,
+            "numids": [
+                "5603",
+                "3183962"
+            ],
+            "path": "cnclassnav/农业科学/园艺"
+        },
+        {
+            "cnclass": "S71",
+            "cnt": 2,
+            "numids": [
+                "9228",
+                "12041"
+            ],
+            "path": "cnclassnav/农业科学/林业/林业基础科学"
+        },
+        {
+            "cnclass": "S72",
+            "cnt": 1,
+            "numids": [
+                "3205756"
+            ],
+            "path": "cnclassnav/农业科学/林业/造林学、林木育种及造林技术"
+        },
+        {
+            "cnclass": "S73",
+            "cnt": 2,
+            "numids": [
+                "4637",
+                "188249"
+            ],
+            "path": "cnclassnav/农业科学/林业/绿化建设"
+        },
+        {
+            "cnclass": "S75",
+            "cnt": 3,
+            "numids": [
+                "4525",
+                "10134",
+                "2153404"
+            ],
+            "path": "cnclassnav/农业科学/林业/森林经营学、森林计测学、森林经理学"
+        },
+        {
+            "cnclass": "S85",
+            "cnt": 1,
+            "numids": [
+                "191748"
+            ],
+            "path": "cnclassnav/农业科学/畜牧、动物医学、狩猎、蚕、蜂/动物医学（兽医学）"
+        }
+    ]
+}

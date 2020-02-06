@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ff0486a-e17f-42e2-b53b-a8759f0804a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XLY5KjB1xtZIYNJurYC2HIPj3g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wqxt" />
+      <recent name="$PROJECT_DIR$/wqxt/spiders" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wqxt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wqxt/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wqxt/Start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="src" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wqxt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wqxt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wqxt/Info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.src" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ff0486a-e17f-42e2-b53b-a8759f0804a9" name="Default Changelist" comment="" />
+      <created>1580826657592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580826657592</updated>
+      <workItem from="1580826661948" duration="30187000" />
+      <workItem from="1580932672711" duration="1213000" />
+      <workItem from="1580933974753" duration="6843000" />
+      <workItem from="1580996885309" duration="791000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="414" key="GridCell.Tab.0.bottom" timestamp="1580996488615">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="414" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1580996488615" />
+    <state width="1750" height="414" key="GridCell.Tab.0.center" timestamp="1580996488615">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="414" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1580996488615" />
+    <state width="1750" height="414" key="GridCell.Tab.0.left" timestamp="1580996488614">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="414" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1580996488614" />
+    <state width="1750" height="414" key="GridCell.Tab.0.right" timestamp="1580996488615">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="414" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1580996488615" />
+    <state x="397" y="175" key="SettingsEditor" timestamp="1580826680502">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="397" y="175" key="SettingsEditor/0.23.1792.1026@0.23.1792.1026" timestamp="1580826680502" />
+    <state x="550" y="370" key="com.intellij.ide.util.TipDialog" timestamp="1580933977064">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="550" y="370" key="com.intellij.ide.util.TipDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1580933977064" />
+    <state x="551" y="305" width="689" height="462" key="find.popup" timestamp="1580996114335">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="551" y="305" width="689" height="462" key="find.popup/0.23.1792.1026@0.23.1792.1026" timestamp="1580996114335" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wqxt/Info.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/wqxt$src.coverage" NAME="src Coverage Results" MODIFIED="1580834267220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wqxt" />
+    <SUITE FILE_PATH="coverage/wqxt$run.coverage" NAME="run Coverage Results" MODIFIED="1580995889779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wqxt/spiders" />
+  </component>
+</project>

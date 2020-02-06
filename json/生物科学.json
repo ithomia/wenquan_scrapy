@@ -1,0 +1,279 @@
+{
+    "base_cnclass": "Q",
+    "data": [
+        {
+            "cnclass": "Q-33",
+            "cnt": 2,
+            "numids": [
+                "194113",
+                "3205384"
+            ],
+            "path": "cnclassnav/生物科学/生物科学的研究方法、技术/生物学实验与生物学技术"
+        },
+        {
+            "cnclass": "Q1-0",
+            "cnt": 1,
+            "numids": [
+                "1285793"
+            ],
+            "path": "cnclassnav/生物科学/普通生物学/生命科学总论"
+        },
+        {
+            "cnclass": "Q11",
+            "cnt": 1,
+            "numids": [
+                "9257"
+            ],
+            "path": "cnclassnav/生物科学/普通生物学/生物演化与发展"
+        },
+        {
+            "cnclass": "Q14",
+            "cnt": 4,
+            "numids": [
+                "12886",
+                "71329",
+                "193672",
+                "1391900"
+            ],
+            "path": "cnclassnav/生物科学/普通生物学/生态学(生物生态学)"
+        },
+        {
+            "cnclass": "Q15",
+            "cnt": 1,
+            "numids": [
+                "3187823"
+            ],
+            "path": "cnclassnav/生物科学/普通生物学/生物分布与生物地理学"
+        },
+        {
+            "cnclass": "Q2-3",
+            "cnt": 1,
+            "numids": [
+                "14008"
+            ],
+            "path": "cnclassnav/生物科学/细胞生物学/细胞生物研究方法"
+        },
+        {
+            "cnclass": "Q3-3",
+            "cnt": 1,
+            "numids": [
+                "3184142"
+            ],
+            "path": "cnclassnav/生物科学/遗传学/研究方法与实验遗传学"
+        },
+        {
+            "cnclass": "Q34",
+            "cnt": 3,
+            "numids": [
+                "8610",
+                "1592020",
+                "3187934"
+            ],
+            "path": "cnclassnav/生物科学/遗传学/遗传学分支学科"
+        },
+        {
+            "cnclass": "Q4-3",
+            "cnt": 3,
+            "numids": [
+                "193485",
+                "3205813",
+                "3207476"
+            ],
+            "path": "cnclassnav/生物科学/生理学/生理学研究方法"
+        },
+        {
+            "cnclass": "Q42",
+            "cnt": 1,
+            "numids": [
+                "1285582"
+            ],
+            "path": "cnclassnav/生物科学/生理学/神经生理学"
+        },
+        {
+            "cnclass": "Q44",
+            "cnt": 1,
+            "numids": [
+                "13087"
+            ],
+            "path": "cnclassnav/生物科学/生理学/运动器官生理学"
+        },
+        {
+            "cnclass": "Q5-3",
+            "cnt": 5,
+            "numids": [
+                "192715",
+                "193570",
+                "193863",
+                "3199373",
+                "3201893"
+            ],
+            "path": "cnclassnav/生物科学/生物化学/生物化学研究法"
+        },
+        {
+            "cnclass": "Q53",
+            "cnt": 1,
+            "numids": [
+                "2127940"
+            ],
+            "path": "cnclassnav/生物科学/生物化学/糖（醣）⑨"
+        },
+        {
+            "cnclass": "Q58",
+            "cnt": 1,
+            "numids": [
+                "1862751"
+            ],
+            "path": "cnclassnav/生物科学/生物化学/生物体其他化学成分"
+        },
+        {
+            "cnclass": "Q73",
+            "cnt": 1,
+            "numids": [
+                "4735"
+            ],
+            "path": "cnclassnav/生物科学/分子生物学/生物膜的结构和功能"
+        },
+        {
+            "cnclass": "Q78",
+            "cnt": 2,
+            "numids": [
+                "2050",
+                "1284899"
+            ],
+            "path": "cnclassnav/生物科学/分子生物学/基因工程(遗传工程）"
+        },
+        {
+            "cnclass": "Q811",
+            "cnt": 7,
+            "numids": [
+                "1661",
+                "4706",
+                "10604",
+                "10780",
+                "12144",
+                "72567",
+                "192521"
+            ],
+            "path": "cnclassnav/生物科学/生物工程学(生物技术)/仿生学"
+        },
+        {
+            "cnclass": "Q911",
+            "cnt": 2,
+            "numids": [
+                "3536",
+                "3729"
+            ],
+            "path": "cnclassnav/生物科学/古生物学/普通古生物学"
+        },
+        {
+            "cnclass": "Q936",
+            "cnt": 1,
+            "numids": [
+                "11803"
+            ],
+            "path": "cnclassnav/生物科学/微生物学/微生物生物化学"
+        },
+        {
+            "cnclass": "Q939",
+            "cnt": 3,
+            "numids": [
+                "5853",
+                "2132224",
+                "3206943"
+            ],
+            "path": "cnclassnav/生物科学/微生物学/微生物分类学（系统微生物学）"
+        },
+        {
+            "cnclass": "Q94-3",
+            "cnt": 1,
+            "numids": [
+                "193418"
+            ],
+            "path": "cnclassnav/生物科学/植物学/植物学研究和植物学实验"
+        },
+        {
+            "cnclass": "Q944",
+            "cnt": 1,
+            "numids": [
+                "2145406"
+            ],
+            "path": "cnclassnav/生物科学/植物学/植物形态学"
+        },
+        {
+            "cnclass": "Q945",
+            "cnt": 1,
+            "numids": [
+                "1371960"
+            ],
+            "path": "cnclassnav/生物科学/植物学/植物生理学"
+        },
+        {
+            "cnclass": "Q948",
+            "cnt": 3,
+            "numids": [
+                "73181",
+                "3202768",
+                "3203430"
+            ],
+            "path": "cnclassnav/生物科学/植物学/植物生态学和植物地理学"
+        },
+        {
+            "cnclass": "Q949",
+            "cnt": 3,
+            "numids": [
+                "7032",
+                "1511558",
+                "3205852"
+            ],
+            "path": "cnclassnav/生物科学/植物学/植物分类学(系统植物学)"
+        },
+        {
+            "cnclass": "Q958",
+            "cnt": 1,
+            "numids": [
+                "5400"
+            ],
+            "path": "cnclassnav/生物科学/动物学/动物生态学和动物地理学"
+        },
+        {
+            "cnclass": "Q959",
+            "cnt": 1,
+            "numids": [
+                "3205778"
+            ],
+            "path": "cnclassnav/生物科学/动物学/动物分类学（系统动物学）"
+        },
+        {
+            "cnclass": "Q964",
+            "cnt": 1,
+            "numids": [
+                "3208374"
+            ],
+            "path": "cnclassnav/生物科学/昆虫学/昆虫形态学"
+        },
+        {
+            "cnclass": "Q969",
+            "cnt": 1,
+            "numids": [
+                "10746"
+            ],
+            "path": "cnclassnav/生物科学/昆虫学/昆虫分类学"
+        },
+        {
+            "cnclass": "Q981",
+            "cnt": 1,
+            "numids": [
+                "2137822"
+            ],
+            "path": "cnclassnav/生物科学/人类学/古人类学"
+        },
+        {
+            "cnclass": "Q983",
+            "cnt": 1,
+            "numids": [
+                "8890"
+            ],
+            "path": "cnclassnav/生物科学/人类学/体质人类学"
+        }
+    ]
+}
