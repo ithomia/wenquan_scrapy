@@ -12,8 +12,8 @@
 
     bid = BookId
     path = download path
-    example : 'scrapy crawl main -a bid=8784
-    or : 'scrapy crawl main -a bid=8784 -a path=/User/download
+    example : 'scrapy crawl main -a bid=8784'
+    or : 'scrapy crawl main -a bid=8784 -a path=/User/download'
 
 ## settings.py
     线程数
@@ -48,4 +48,5 @@ https://blog.csdn.net/m0_46261074/article/details/104165261
 项目中的json是已经分类好的id文件,可以直接取用下载全部（推荐挂代理）。
 
 编辑于：Thu Feb 6 23:20:21 2020
+
 左素
